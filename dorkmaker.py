@@ -107,4 +107,3 @@ elif cms == "3":
 
 else:
 	print("[{}-{}] Invalid Optionn! Tool closed!".format(settings.r,settings.y))
-	
