@@ -1,0 +1,11 @@
+("author/admin")checkbonuse
+("uncategorized/hello-world")checkbonuse
+("Mr WordPress on Hello world!")checkbonuse
+("/wp/hello-world/")checkbonuse
+("uncategorized")checkbonuse
+("Comentarios en Hello world!")checkbonuse
+("Welcome to WordPress. This is your first post.")checkbonuse
+("Just another WordPress site")checkbonuse
+("category/sin-categoria")checkbonuse
+("Comment on Hello world!")checkbonuse
+("Proudly powered by WordPress")checkbonuse
